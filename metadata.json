@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Sudoku Challenge",
+  "description": "A delightful, purely mathematical Daily Sudoku web application featuring backtracking generation, varying grid sizes and an elegant print mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
